@@ -1,5 +1,10 @@
 # 🧠 Fashion-MNIST Classification with PyTorch
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-orange)
+![CUDA](https://img.shields.io/badge/CUDA-12.8-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
 > A PyTorch-based Multilayer Perceptron (MLP) for multi-class image classification on the Fashion-MNIST dataset. The project implements a complete training and evaluation pipeline, supports GPU-accelerated training with CUDA, and uses confusion matrices and training plots to analyze model performance.
 
 ## 📖 Overview
